@@ -1,6 +1,6 @@
 <h2>---- Let me introduce myself!!! ----</h2>
 
-<h3 align="center">Fall in love with design and develop</h3>
+<h3 align="left">Fall in love with design and develop</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
     /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p> 
     <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -58,9 +58,9 @@
     </a>
 </p>
 
-<h3>Other important skills:</h3>
+<h3 align="left">Other important skills:</h3>
 
-<p align="center">
+<p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img
             src="https://cdn.worldvectorlogo.com/logos/django.svg"
